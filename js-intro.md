@@ -5,55 +5,54 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. What is a function? Why would you use one?
 
-  Your answer:
+  Your answer: A function is a program that executes some sort of action.
 
-  Researched answer:
+  Researched answer: "In programming, a named section of a program that performs a specific task. In this sense, a function is a type of procedure or routine. Some programming languages make a distinction between a function, which returns a value, and a procedure, which performs some operation but does not return a value."
 
 
 
 2. What is the difference between map and filter?
 
-  Your answer:
+  Your answer: .map takes a copy of an array and returns a new array with different values. .filter takes an array and filters out specific values and returns a new array with only the specified values.
 
-  Researched answer:
+  Researched answer: "They both return a new array. map returns a new array of elements where you have applied some function on the element so that it changes the original element (typically). filter returns a new array of the elements of the original array (with no change to the original values). filter will only return elements where the function you specify returns a value of true for each element passed to the function."
 
 
 
 3. What is the difference between console.log() and return?
 
-  Your answer:
+  Your answer: return is what you want the program to execute after a condition. console.log() is what allows you to actually execute that code.
 
-  Researched answer:
-
+  Researched answer: "The main purpose of the return value, is to use the function return value like you would have used a variable value. The console.log(); is a function that will write the argument value on the console."
 
 
 4. In regards to functions, what is an argument?
 
-  Your answer:
+  Your answer: The argument is the value of a function
 
-  Researched answer:
+  Researched answer: In mathematics, an argument of a function is a value that must be provided to obtain the function's result.
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Be polite, one should be the "navigator" and the other should be the "driver", switch off every 20 minutes. Allow each other to try to solve the code even if you know it won't work, be respectful, be patient and understanding of everyones skill level, COMMUNICATE, don't be an a-hole.
 
-  Researched answer:
+  Researched answer: Permission to make mistakes, encouragement to experiment, constructive feedback, friendly disposition, active engagement.
 
 
 
 6. What is TDD? Describe the work flow associated with TDD.
 
-  Your answer:
+  Your answer: Not sure..
 
-  Researched answer:
+  Researched answer: Test driven development! duh.. "Test-driven development is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass. "
 
 
 
 7. What is something we did in class this week you found helpful?  
 
-  Your answer:
+  Your answer: Having the instructors walking around to check up on us while we do the coding challenges and helping us when we needed them. You're all super awesome and helpful. I can tell that you want us to succeed. Thank you.
 
 
 
@@ -61,12 +60,12 @@ Answer the following questions. First, without external resources. Challenge you
 
 Define the following terms to the best of your ability.
 
-- React
+- React: a javascript library used for building user interfaces
 
-- Yarn
+- Yarn: a javascript package manager that is designed to give you add ons that you can install into your text editor, like Jest. 
 
-- React State
+- React State: Not sure. An object that determines how that that component renders and behaves (research answer)
 
-- CRUD
+- CRUD: I'm not sure. Create Read Upload Delete (research answer)
 
-- this
+- this: refers to a variable or value in use.

@@ -10,8 +10,11 @@
 
 
 // --------------------1a) Create a test for a function called addThemUp that takes two numbers as arguments and returns the sum.
-
-
+describe("addThemUp" = (num1,num2) => {
+    test ("num1 + num2", () => { 
+    expect (addThemUp("num1, num2")).toEqual("num1 + num2") 
+})
+})
 
 
 
