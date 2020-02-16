@@ -8,6 +8,7 @@
 // Use the test variables provided below. Expected outcome: "35 is below boiling point", "350 is above boiling point", "212 is at boiling point" ..
 
 
+
 var temp1 = 35
 var temp2 = 350
 var temp3 = 212
